@@ -53,6 +53,7 @@
 
 .right_column h4 {
   color: var(--Darkgrayishblue);
+  line-height: 1.2;
 }
 
 .right_column h1 {
