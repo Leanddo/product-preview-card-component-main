@@ -115,6 +115,6 @@
     height: 100%;
     object-fit: cover;
     border-radius: 15px 15px 0 0;
-    content: url("https://github.com/Leanddo/product-preview-card-component-main/blob/main/product-preview-card-component-main/images/image-product-mobile.jpg?raw=true");
+    content:href('imgs/image-product-mobile.jpg');
   }
 }
