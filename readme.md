@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Calculadora 
+Projeto simples de uma preveiw de um produto
 
 
 ## Deploy 
